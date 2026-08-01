@@ -1,7 +1,7 @@
 <!-- SPDX-License-Identifier: ISC -->
 
 <p align="center">
-  <img src="https://cloudcdn.pro/beonux/v1/logos/beonux.svg" alt="browserslist-config logo" width="128" />
+  <img src="./browserslist-config.svg" alt="browserslist-config logo" width="128" />
 </p>
 
 <h1 align="center">@sebastienrousseau/browserslist-config</h1>
