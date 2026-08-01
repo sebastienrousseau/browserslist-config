@@ -34,7 +34,8 @@
     "index.mjs",
     "index.cjs",
     "index.d.ts",
-    "browserslist-config.svg"
+    "browserslist-config.svg",
+    "LICENSE"
   ],
   "publishConfig": {
     "access": "public"
