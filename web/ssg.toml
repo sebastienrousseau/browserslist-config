@@ -1,7 +1,7 @@
 site_name = "browserslist-config"
 site_title = "@sebastienrousseau/browserslist-config — Shareable Browserslist target configuration rules"
 site_description = "Shareable Browserslist target configuration rules"
-base_url = "https://config.sebastienrousseau.com/browserslist-config"
+base_url = "https://sebastienrousseau.com/browserslist-config/"
 language = "en-GB"
 
 content_dir = "web/content"
