@@ -22,17 +22,22 @@ An exhaustive overview covering **100% of the features, rules, and capabilities*
 ## Feature Deep Dive
 
 ### 1. Global Usage Threshold
+
 Requires browser share > 0.5% worldwide. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 2. Recent Engine Support
+
 Targets last 2 major versions of all evergreen browsers. Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 3. Enterprise Support
+
 Maintains compatibility with Firefox Extended Support Release (ESR). Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 4. Dead Browser Pruning
+
 Explicitly excludes unsupported/abandoned browser versions (`not dead`). Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
 ### 5. Proxy Browser Pruning
+
 Explicitly excludes legacy proxy browsers (`not OperaMini all`). Designed to guarantee deterministic behavior across all development and continuous integration environments.
 
