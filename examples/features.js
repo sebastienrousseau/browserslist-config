@@ -1,11 +1,19 @@
+// SPDX-FileCopyrightText: 2026 Sebastien Rousseau <sebastian.rousseau@gmail.com>
+// SPDX-License-Identifier: Apache-2.0 OR MIT
+
 /**
  * 100% Feature Showcase for @sebastienrousseau/browserslist-config
  */
 const config = require("../index.cjs");
 const assert = require("assert");
 
-console.log("=== 100% Feature Showcase: @sebastienrousseau/browserslist-config ===");
-assert(Array.isArray(config), "Browserslist config must export an array of query strings");
+console.log(
+  "=== 100% Feature Showcase: @sebastienrousseau/browserslist-config ===",
+);
+assert(
+  Array.isArray(config),
+  "Browserslist config must export an array of query strings",
+);
 assert(config.includes("> 0.5%"), "Must include > 0.5% global usage threshold");
 assert(config.includes("last 2 versions"), "Must target last 2 major versions");
 assert(config.includes("Firefox ESR"), "Must support Firefox ESR");
