@@ -6,7 +6,7 @@
 class BrowserslistConfig < Formula
   desc "Shareable Browserslist target configuration rules"
   homepage "https://github.com/sebastienrousseau/browserslist-config"
-  url "https://registry.npmjs.org/@sebastienrousseau/browserslist-config/-/browserslist-config-0.0.7.tgz"
+  url "https://registry.npmjs.org/@sebastienrousseau/browserslist-config/-/browserslist-config-0.0.9.tgz"
   license any_of: ["Apache-2.0", "MIT"]
 
   depends_on "node"
